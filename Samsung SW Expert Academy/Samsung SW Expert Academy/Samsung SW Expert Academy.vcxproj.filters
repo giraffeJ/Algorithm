@@ -18,5 +18,11 @@
     <ClCompile Include="1257.K번째 문자열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2072.홀수만 더하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2071.평균값 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
