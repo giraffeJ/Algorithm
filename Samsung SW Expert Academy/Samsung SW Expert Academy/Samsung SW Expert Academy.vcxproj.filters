@@ -30,5 +30,17 @@
     <ClCompile Include="1953.탈주범 검거.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2382.미생물 격리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5644.무선 충전.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5648.원자 소멸 시뮬레이션.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5658.보물상자 비밀번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
