@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(15): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(24): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(33): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(42): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(51): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(60): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+c:\users\jeff\onedrive - 고려대학교\algorithm\algorithm study with jm\algorithm study with jm\main.cpp(69): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::chrono::duration<double,std::ratio<1,1>>'입니다.
+  Algorithm study with JM.vcxproj -> C:\Users\JEFF\OneDrive - 고려대학교\Algorithm\Algorithm study with JM\Debug\Algorithm study with JM.exe
